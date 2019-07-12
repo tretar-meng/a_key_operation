@@ -1,0 +1,5 @@
+('d:\\python27\\lib\\site-packages\\urllib3-1.24.1-py2.7.egg',
+ None,
+ set(['*.py', '*.pyc', '*.pyd', '*.pyw', 'EGG-INFO']),
+ 'DATA',
+ [])
